@@ -1,7 +1,7 @@
 # About Us
 
 <p>
-    <img src="profile/logo.png" />
+    <img src="https://github.com/osc-vitap/.github/blob/main/profile/logo.png", width=60% , length=60% />
 </p>
 
 We're the **Open Source Community**, a student community established to promote, support, and develop on Open Source Technologies.
